@@ -1,5 +1,11 @@
 h1{
-    color: blueviolet;
+    color: rgb(70, 49, 88);
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
+}
+
+p{
+font-size: 50px;
+
+
 }
