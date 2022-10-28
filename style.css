@@ -1,13 +1,29 @@
+body{
+    background-color:plum;
+
+}
 h1{
-    color: rgb(62, 0, 116);
-    font-family: 'Courier New', Courier, monospace;
-    text-align: left;
-}
 
+    color:rgb(180, 12, 12);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+     text-align: center;
+     font: 50px;
+}
 p{
-font-size: 25px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
-
-
+    color:rgb(86, 20, 148);
+    font-family:'Courier New',Courier, monospace;
+    font-size:  25px; 
+    text-align: center;
 }
+
+.container{
+    width: 20%; 
+    margin: 0 auto;
+    font-size: 30px;
+}
+
+
+#aaa {
+    width: 100%;
+}
+
